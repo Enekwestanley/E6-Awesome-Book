@@ -9,6 +9,10 @@ In this project, I refactor the awesome book website with module. I create two a
 
 - Javascript, HTML and CSS
 
+## Live Demo (if available)
+
+https://enekwestanley.github.io/E6-Awesome-Book/
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
